@@ -1,0 +1,2 @@
+#This file was placed here to keep the directory in git, and make sure the directory is created upon clone or checkout. 
+#It serves no other purpose. So you can stop reading now. No, really pointless. Stop. Now. Stop it. Fine, I'll just stop writing.
